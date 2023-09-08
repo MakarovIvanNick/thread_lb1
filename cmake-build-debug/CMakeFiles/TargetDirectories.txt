@@ -1,0 +1,3 @@
+/Users/ivanmakarov/tpu/tprv/threadSIMD/cmake-build-debug/CMakeFiles/threadSIMD.dir
+/Users/ivanmakarov/tpu/tprv/threadSIMD/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ivanmakarov/tpu/tprv/threadSIMD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
